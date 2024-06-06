@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  user-dashboard:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-06-07T00:22:32.5048255+03:00"
+    description: A Helm chart for Kubernetes
+    digest: b52c89d2fb6ed8bc411e76129ac9390a3168f4563361a05162e7fe0f7562d34a
+    name: user-dashboard
+    type: application
+    urls:
+    - user-dashboard-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-07T00:22:32.5042757+03:00"
